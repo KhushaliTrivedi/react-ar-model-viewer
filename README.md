@@ -16,6 +16,7 @@ A modern React-based application that allows users to interactively view 3D mode
 ---
 
 ## 🖼️ Demo
+Live Demo: https://react-ar-model-viewer.vercel.app/
 
 ![3D Model Viewer Screenshot](src/assets/screenshot.png)
 ![AR View Screenshot](src/assets/AR-View.jpg)
@@ -52,11 +53,11 @@ const ar_view_variants = [
 
 # Clone the repo
 
-git clone https://github.com/yourusername/ar-3d-viewer.git
+git clone https://github.com/KhushaliTrivedi/react-ar-model-viewer.git
 
 # Navigate to project
 
-cd ar-3d-viewer
+cd react-ar-model-viewer
 
 # Install dependencies
 
