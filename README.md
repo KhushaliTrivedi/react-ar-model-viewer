@@ -56,7 +56,7 @@ git clone https://github.com/KhushaliTrivedi/react-ar-model-viewer.git
 
 # Navigate to project
 
-cd ar-3d-viewer
+cd react-ar-model-viewer
 
 # Install dependencies
 
