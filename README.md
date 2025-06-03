@@ -18,6 +18,7 @@ A modern React-based application that allows users to interactively view 3D mode
 ## 🖼️ Demo
 
 ![3D Model Viewer Screenshot](src/assets/screenshot.png)
+![AR View Screenshot](src/assets/AR-View.jpg)
 
 ---
 
