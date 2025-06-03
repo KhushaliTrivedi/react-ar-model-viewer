@@ -16,6 +16,7 @@ A modern React-based application that allows users to interactively view 3D mode
 ---
 
 ## 🖼️ Demo
+Live Demo: https://react-ar-model-viewer.vercel.app/
 
 ![3D Model Viewer Screenshot](src/assets/screenshot.png)
 
