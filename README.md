@@ -51,7 +51,7 @@ const ar_view_variants = [
 
 # Clone the repo
 
-git clone https://github.com/yourusername/ar-3d-viewer.git
+git clone https://github.com/KhushaliTrivedi/react-ar-model-viewer.git
 
 # Navigate to project
 
